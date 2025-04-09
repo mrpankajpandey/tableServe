@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.scrolled {
+    background-color: rgba(41, 27, 2, 0.527); /* Dark background */
+}
